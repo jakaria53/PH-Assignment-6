@@ -1,7 +1,8 @@
 import React from 'react'
 
 const FTABanner = () => {
-  return (
+  return (  
+    // footer
     <section className="py-20 text-center bg-linear-to-l from-[#9514FA] to-[#4F39F6]">
       <div className="w-full mx-auto px-6 lg:px-20 flex flex-col items-center gap-6">
         <h2 className="text-3xl lg:text-4xl font-extrabold text-white">
